@@ -1,0 +1,24 @@
+{
+  "name": "backend_todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Macalderas/Backend_Todo-List#readme",
+  "bugs": {
+    "url": "https://github.com/Macalderas/Backend_Todo-List/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macalderas/Backend_Todo-List.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
